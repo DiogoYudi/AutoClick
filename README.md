@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-%23FF6F00.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Version](https://img.shields.io/badge/version-v1.0-green)
-![License](https://img.shields.io/badge/license-MIT-blue)
 
 A simple automatic clicker built in **Python** using **Tkinter** and **pynput**.  
 Customize the activation key and use a floating overlay to see when the autoclicker is active.
@@ -26,6 +25,7 @@ Optional: you can also add a GIF showing the autoclick in action.
 - [Usage](#usage)
 - [Downloads](#downloads)
 - [Notes](#notes)
+- [License](#license)
 
 ---
 
