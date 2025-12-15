@@ -20,9 +20,6 @@ Customize the activation key and use a floating overlay to see when the autoclic
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Downloads](#downloads)
-- [Notes](#notes)
-- [License](#license)
 
 ---
 
@@ -36,14 +33,33 @@ Customize the activation key and use a floating overlay to see when the autoclic
 
 ### Optional
 
-- Executable for Windows (no Python installation needed): [Download AutoClicker.exe](https://github.com/DiogoYudi/AutoClick/tree/main/dist/AutoClicker.exe)
+- Executable for Windows (no Python installation needed): [Download AutoClicker.exe](https://github.com/DiogoYudi/AutoClick/raw/main/dist/AutoClick.exe
+)
 
 
 ## Installation
 
 ### Running from Source
 
-1. Clone the repository:
+1. Install Python [Download](https://www.python.org/downloads/release/python-31212/)
+
+2. Install Tkinter (if needed, Linux only)
+```bash
+sudo apt install python3-tk
+```
+
+3. Install required Python packages
+```bash
+pip install pynput
+```
+
+5. Clone the repository:
 
 ```bash
 git clone https://github.com/DiogoYudi/AutoClicker.git
+```
+
+
+## Usage
+
+1. Run the application
