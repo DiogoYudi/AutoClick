@@ -11,7 +11,7 @@ Customize the activation key and use a floating overlay to see when the autoclic
 
 ## Screenshots / Demo
 
-![Overlay Screenshot](https://i.imgur.com/your_screenshot_here.png)  
+![Overlay Screenshot](https://i.imgur.com/ZnqxJnW.png)  
 *(Replace with actual screenshot of overlay or configuration window)*
 
 Optional: you can also add a GIF showing the autoclick in action.
@@ -39,7 +39,7 @@ Optional: you can also add a GIF showing the autoclick in action.
 
 ### Optional
 
-- Executable for Windows (no Python installation needed): [Download AutoClicker.exe](https://github.com/DiogoYudi/AutoClicker/raw/main/dist/AutoClicker.exe)
+- Executable for Windows (no Python installation needed): [Download AutoClicker.exe](https://github.com/DiogoYudi/AutoClick/tree/main/dist/AutoClicker.exe)
 
 
 ## Installation
