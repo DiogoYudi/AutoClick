@@ -39,9 +39,8 @@ Optional: you can also add a GIF showing the autoclick in action.
 
 ### Optional
 
-- Executable for Windows (no Python installation needed)
+- Executable for Windows (no Python installation needed): [Download AutoClicker.exe](https://github.com/DiogoYudi/AutoClicker/raw/main/dist/AutoClicker.exe)
 
----
 
 ## Installation
 
