@@ -13,8 +13,6 @@ Customize the activation key and use a floating overlay to see when the autoclic
 
 ![Overlay Screenshot](https://i.imgur.com/ZnqxJnW.png)  
 
-Optional: you can also add a GIF showing the autoclick in action.
-
 ---
 
 ## Table of Contents
