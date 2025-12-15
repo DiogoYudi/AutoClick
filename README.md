@@ -2,22 +2,32 @@
 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-%23FF6F00.svg?style=for-the-badge&logo=python&logoColor=white)
+![Version](https://img.shields.io/badge/version-v1.0-green)
+![License](https://img.shields.io/badge/license-MIT-blue)
 
-A simple automatic clicker built using **Python** with **Tkinter** and **pynput**.
+A simple automatic clicker built in **Python** using **Tkinter** and **pynput**.  
+Customize the activation key and use a floating overlay to see when the autoclicker is active.
 
-This project allows you to select a custom key to toggle the autoclicker, with a floating overlay showing its status.
+---
 
-## Screenshots
-![Overlay](https://i.imgur.com/your_screenshot_here.png)  
-*(Replace with actual screenshot of your overlay or configuration window)*
+## Screenshots / Demo
+
+![Overlay Screenshot](https://i.imgur.com/your_screenshot_here.png)  
+*(Replace with actual screenshot of overlay or configuration window)*
+
+Optional: you can also add a GIF showing the autoclick in action.
+
+---
 
 ## Table of Contents
 
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Notes](#notes)
 - [Downloads](#downloads)
+- [Notes](#notes)
+
+---
 
 ## Requirements
 
@@ -31,11 +41,13 @@ This project allows you to select a custom key to toggle the autoclicker, with a
 
 - Executable for Windows (no Python installation needed)
 
+---
+
 ## Installation
 
-### Running from source
+### Running from Source
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/AutoClicker.git
+git clone https://github.com/DiogoYudi/AutoClicker.git
